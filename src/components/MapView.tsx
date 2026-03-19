@@ -23,18 +23,30 @@ const ICON_COLORS: Record<string, string> = {
 
 function createMarkerIcon(color: string, selected: boolean) {
   const c = selected ? '#ef4444' : color;
-  const size = selected ? 14 : 11;
+  const w = 20, h = 28;
+  // Teardrop pin: circle on top, pointed tail at bottom
+  const r = 8; // circle radius
+  const cx = w / 2, cy = r + 2;
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+      <filter id="s" x="-40%" y="-20%" width="180%" height="160%">
+        <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="rgba(0,0,0,0.35)"/>
+      </filter>
+      <g filter="url(#s)">
+        <path d="M${cx},${h - 2} C${cx},${h - 2} ${cx - r},${cy + r * 1.2} ${cx - r},${cy}
+                 A${r},${r} 0 1,1 ${cx + r},${cy}
+                 C${cx + r},${cy + r * 1.2} ${cx},${h - 2} ${cx},${h - 2}Z"
+              fill="${c}" stroke="white" stroke-width="1.5"/>
+        <circle cx="${cx}" cy="${cy}" r="${r * 0.38}" fill="white" opacity="0.9"/>
+      </g>
+      ${selected ? `<circle cx="${cx}" cy="${cy}" r="${r + 5}" fill="${c}" opacity="0.2" stroke="${c}" stroke-width="1"/>` : ''}
+    </svg>`;
   return L.divIcon({
     className: '',
-    html: `<div style="
-      width:${size}px;height:${size}px;border-radius:50%;
-      background:${c};border:2px solid white;
-      box-shadow:0 1px 4px rgba(0,0,0,0.5);
-      ${selected ? 'outline:2px solid rgba(239,68,68,0.4);outline-offset:2px;' : ''}
-    "></div>`,
-    iconSize: [size, size],
-    iconAnchor: [size / 2, size / 2],
-    popupAnchor: [0, -size / 2 - 2],
+    html: svg,
+    iconSize: [w, h],
+    iconAnchor: [w / 2, h - 1],
+    popupAnchor: [0, -h + 2],
   });
 }
 
