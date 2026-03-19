@@ -3310,8 +3310,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/2/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.0171181,
+    "lng": 105.823904,
+    "needs_regeocode": false
   },
   {
     "stt": 222,
@@ -3324,8 +3325,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/2/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.0192789,
+    "lng": 105.8172233,
+    "needs_regeocode": false
   },
   {
     "stt": 223,
@@ -3338,8 +3340,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/2/2026",
-    "lat": 21.0184475,
-    "lng": 105.3930256
+    "lat": 21.0962335,
+    "lng": 105.4017579,
+    "needs_regeocode": false
   },
   {
     "stt": 224,
@@ -3353,7 +3356,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
     "lat": 21.1625428,
-    "lng": 105.8844077
+    "lng": 105.8844077,
+    "needs_regeocode": false
   },
   {
     "stt": 225,
@@ -3366,8 +3370,9 @@
     "nhom_sp": "Bếp ăn tập thể",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.1791194,
-    "lng": 105.8126737
+    "lat": 21.179015,
+    "lng": 105.8126707,
+    "needs_regeocode": false
   },
   {
     "stt": 226,
@@ -3380,8 +3385,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.1536239,
-    "lng": 105.8519612
+    "lat": 21.140395,
+    "lng": 105.849147,
+    "needs_regeocode": false
   },
   {
     "stt": 227,
@@ -3394,8 +3400,9 @@
     "nhom_sp": "Bếp ăn tập thể",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.1258664,
-    "lng": 105.760677
+    "lat": 21.1250073,
+    "lng": 105.7790048,
+    "needs_regeocode": false
   },
   {
     "stt": 228,
@@ -3408,8 +3415,9 @@
     "nhom_sp": "Căng tin",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.1258664,
-    "lng": 105.760677
+    "lat": 21.1250073,
+    "lng": 105.7790048,
+    "needs_regeocode": false
   },
   {
     "stt": 229,
@@ -3422,8 +3430,9 @@
     "nhom_sp": "Bếp ăn tập thể",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.1258664,
-    "lng": 105.760677
+    "lat": 21.1250073,
+    "lng": 105.7790048,
+    "needs_regeocode": false
   },
   {
     "stt": 230,
@@ -3437,7 +3446,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
     "lat": 21.022981,
-    "lng": 105.80239
+    "lng": 105.80239,
+    "needs_regeocode": false
   },
   {
     "stt": 231,
@@ -3450,8 +3460,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.0063974,
-    "lng": 105.816087
+    "lat": 21.0170777,
+    "lng": 105.810506,
+    "needs_regeocode": false
   },
   {
     "stt": 232,
@@ -3464,8 +3475,9 @@
     "nhom_sp": "Bếp ăn tập thể và sản xuất các loại bánh từ bột",
     "ky_hieu_nhom": "Dịch vụ ăn uống và sản xuất thực phẩm",
     "ngay_cap": "9/2/2026",
-    "lat": 21.0116264,
-    "lng": 105.7548056
+    "lat": 21.0418765,
+    "lng": 105.8769858,
+    "needs_regeocode": false
   },
   {
     "stt": 233,
@@ -3478,8 +3490,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/2/2026",
-    "lat": 21.0116264,
-    "lng": 105.7548056
+    "lat": 21.0447784,
+    "lng": 105.8668503,
+    "needs_regeocode": false
   },
   {
     "stt": 234,
@@ -3492,8 +3505,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.005453,
-    "lng": 105.8606225
+    "lat": 21.0178512,
+    "lng": 105.8582978,
+    "needs_regeocode": false
   },
   {
     "stt": 235,
@@ -3506,8 +3520,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.0439219,
-    "lng": 105.7552704
+    "lat": 21.053468,
+    "lng": 105.763881,
+    "needs_regeocode": false
   },
   {
     "stt": 236,
@@ -3520,8 +3535,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.0023161,
-    "lng": 105.7179738
+    "lat": 20.953148990382,
+    "lng": 105.76912200347,
+    "needs_regeocode": false
   },
   {
     "stt": 237,
@@ -3534,8 +3550,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.0228962,
-    "lng": 105.7035484
+    "lat": 21.066641,
+    "lng": 105.708602,
+    "needs_regeocode": false
   },
   {
     "stt": 238,
@@ -3548,8 +3565,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.9737709,
+    "lng": 105.7500832,
+    "needs_regeocode": false
   },
   {
     "stt": 239,
@@ -3562,8 +3580,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.981534,
+    "lng": 105.748875,
+    "needs_regeocode": false
   },
   {
     "stt": 240,
@@ -3576,8 +3595,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.0063974,
-    "lng": 105.816087
+    "lat": 21.0194931,
+    "lng": 105.8042171,
+    "needs_regeocode": false
   },
   {
     "stt": 241,
@@ -3591,7 +3611,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
     "lat": 21.0107191,
-    "lng": 105.8160204
+    "lng": 105.8160204,
+    "needs_regeocode": false
   },
   {
     "stt": 242,
@@ -3604,8 +3625,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.0253891,
-    "lng": 105.8412249
+    "lat": 21.0218851,
+    "lng": 105.8489463,
+    "needs_regeocode": false
   },
   {
     "stt": 243,
@@ -3618,8 +3640,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.0428775,
-    "lng": 105.804043
+    "lat": 21.0400774,
+    "lng": 105.7988403,
+    "needs_regeocode": false
   },
   {
     "stt": 244,
@@ -3632,8 +3655,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
-    "lat": 21.02673,
-    "lng": 105.8443897
+    "lat": 21.0261906,
+    "lng": 105.8462429,
+    "needs_regeocode": false
   },
   {
     "stt": 245,
@@ -3647,7 +3671,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/2/2026",
     "lat": 21.0261906,
-    "lng": 105.8462429
+    "lng": 105.8462429,
+    "needs_regeocode": false
   },
   {
     "stt": 246,
@@ -3660,8 +3685,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 21.051718,
-    "lng": 105.8786414
+    "lat": 21.0005373,
+    "lng": 105.9455411,
+    "needs_regeocode": false
   },
   {
     "stt": 247,
@@ -3674,8 +3700,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 21.0005341,
-    "lng": 105.8786102
+    "lat": 20.9942121,
+    "lng": 105.8682849,
+    "needs_regeocode": false
   },
   {
     "stt": 248,
@@ -3688,8 +3715,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.9831367,
+    "lng": 105.7450661,
+    "needs_regeocode": false
   },
   {
     "stt": 249,
@@ -3703,7 +3731,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
     "lat": 20.9925741,
-    "lng": 105.8400055
+    "lng": 105.8400055,
+    "needs_regeocode": false
   },
   {
     "stt": 250,
@@ -3716,8 +3745,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.9969075,
-    "lng": 105.8403147
+    "lat": 20.9904543,
+    "lng": 105.8333418,
+    "needs_regeocode": false
   },
   {
     "stt": 251,
@@ -3730,8 +3760,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0278887,
+    "lng": 105.812789,
+    "needs_regeocode": false
   },
   {
     "stt": 252,
@@ -3744,8 +3775,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0280423,
+    "lng": 105.8239316,
+    "needs_regeocode": false
   },
   {
     "stt": 253,
@@ -3758,8 +3790,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.9509503,
-    "lng": 105.7853025
+    "lat": 20.9538484,
+    "lng": 105.7739664,
+    "needs_regeocode": false
   },
   {
     "stt": 254,
@@ -3772,8 +3805,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.9908045,
-    "lng": 105.8134369
+    "lat": 20.9976941,
+    "lng": 105.8160632,
+    "needs_regeocode": false
   },
   {
     "stt": 255,
@@ -3786,8 +3820,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.9810567,
+    "lng": 105.78423,
+    "needs_regeocode": false
   },
   {
     "stt": 256,
@@ -3800,8 +3835,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.9888087,
-    "lng": 105.848582
+    "lat": 20.99993,
+    "lng": 105.8454253,
+    "needs_regeocode": false
   },
   {
     "stt": 257,
@@ -3814,8 +3850,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 20.9931168,
-    "lng": 105.7768258
+    "lat": 20.9858966,
+    "lng": 105.7937986,
+    "needs_regeocode": false
   },
   {
     "stt": 258,
@@ -3828,8 +3865,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.036836719623,
+    "lng": 105.782391897301,
+    "needs_regeocode": false
   },
   {
     "stt": 259,
@@ -3842,8 +3880,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "12/2/2026",
-    "lat": 21.0253891,
-    "lng": 105.8412249
+    "lat": 21.025729,
+    "lng": 105.852452,
+    "needs_regeocode": false
   },
   {
     "stt": 260,
@@ -3856,8 +3895,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0271958,
-    "lng": 105.8565753
+    "lat": 21.0323464,
+    "lng": 105.84816,
+    "needs_regeocode": false
   },
   {
     "stt": 261,
@@ -3871,7 +3911,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
     "lat": 21.0295773,
-    "lng": 105.8458257
+    "lng": 105.8458257,
+    "needs_regeocode": false
   },
   {
     "stt": 262,
@@ -3884,8 +3925,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0445117,
-    "lng": 105.8427015
+    "lat": 21.0435998,
+    "lng": 105.8451043,
+    "needs_regeocode": false
   },
   {
     "stt": 263,
@@ -3898,8 +3940,9 @@
     "nhom_sp": "Quầy hàng kinh doanh TPC, TAN",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0361708,
-    "lng": 105.8487212
+    "lat": 21.0360802,
+    "lng": 105.8486929,
+    "needs_regeocode": false
   },
   {
     "stt": 264,
@@ -3913,7 +3956,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
     "lat": 21.0362395,
-    "lng": 105.8493154
+    "lng": 105.8493154,
+    "needs_regeocode": false
   },
   {
     "stt": 265,
@@ -3926,8 +3970,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0347091,
-    "lng": 105.8245193
+    "lat": 21.0300377,
+    "lng": 105.8402667,
+    "needs_regeocode": false
   },
   {
     "stt": 266,
@@ -3940,8 +3985,9 @@
     "nhom_sp": null,
     "ky_hieu_nhom": null,
     "ngay_cap": "",
-    "lat": 21.0283334,
-    "lng": 105.854041
+    "lat": null,
+    "lng": null,
+    "needs_regeocode": true
   },
   {
     "stt": 267,
@@ -3955,7 +4001,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
     "lat": 21.014642,
-    "lng": 105.8341763
+    "lng": 105.8341763,
+    "needs_regeocode": false
   },
   {
     "stt": 268,
@@ -3968,8 +4015,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.0164673,
+    "lng": 105.8214469,
+    "needs_regeocode": false
   },
   {
     "stt": 269,
@@ -3982,8 +4030,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0347091,
-    "lng": 105.8245193
+    "lat": 21.029029018725,
+    "lng": 105.841620017701,
+    "needs_regeocode": false
   },
   {
     "stt": 270,
@@ -3996,8 +4045,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.971193,
+    "lng": 105.779022,
+    "needs_regeocode": false
   },
   {
     "stt": 271,
@@ -4010,8 +4060,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 20.9619101,
-    "lng": 105.83654
+    "lat": 20.967104,
+    "lng": 105.8248121,
+    "needs_regeocode": false
   },
   {
     "stt": 272,
@@ -4024,8 +4075,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0340499,
+    "lng": 105.8092405,
+    "needs_regeocode": false
   },
   {
     "stt": 273,
@@ -4038,8 +4090,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 20.994041,
+    "lng": 105.80088,
+    "needs_regeocode": false
   },
   {
     "stt": 274,
@@ -4053,7 +4106,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
     "lat": 20.9703325,
-    "lng": 105.8669002
+    "lng": 105.8669002,
+    "needs_regeocode": false
   },
   {
     "stt": 275,
@@ -4066,8 +4120,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0359663,
-    "lng": 105.7744137
+    "lat": 21.0364694,
+    "lng": 105.7751597,
+    "needs_regeocode": false
   },
   {
     "stt": 276,
@@ -4080,8 +4135,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
-    "lat": 21.0185679,
-    "lng": 105.7576128
+    "lat": 21.017999900979,
+    "lng": 105.840926834308,
+    "needs_regeocode": false
   },
   {
     "stt": 277,
@@ -4095,7 +4151,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "13/2/2026",
     "lat": 21.0294604,
-    "lng": 105.7757471
+    "lng": 105.7757471,
+    "needs_regeocode": false
   },
   {
     "stt": 278,
@@ -4109,7 +4166,8 @@
     "ky_hieu_nhom": "Sản xuất thực phẩm",
     "ngay_cap": "13/2/2026",
     "lat": 21.1744712,
-    "lng": 105.463481
+    "lng": 105.463481,
+    "needs_regeocode": false
   },
   {
     "stt": 279,
@@ -4123,7 +4181,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "25/2/2026",
     "lat": 21.0134602,
-    "lng": 105.8332487
+    "lng": 105.8332487,
+    "needs_regeocode": false
   },
   {
     "stt": 280,
@@ -4136,8 +4195,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "25/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0045152,
+    "lng": 105.8012372,
+    "needs_regeocode": false
   },
   {
     "stt": 281,
@@ -4150,8 +4210,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "25/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0086146,
+    "lng": 105.7982745,
+    "needs_regeocode": false
   },
   {
     "stt": 282,
@@ -4164,8 +4225,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "25/2/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.0416695,
+    "lng": 105.7822704,
+    "needs_regeocode": false
   },
   {
     "stt": 283,
@@ -4179,7 +4241,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "25/2/2026",
     "lat": 21.0358777,
-    "lng": 105.7937755
+    "lng": 105.7937755,
+    "needs_regeocode": false
   },
   {
     "stt": 284,
@@ -4192,8 +4255,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "25/2/2026",
-    "lat": 21.0228962,
-    "lng": 105.7035484
+    "lat": 20.9892885,
+    "lng": 105.7226091,
+    "needs_regeocode": false
   },
   {
     "stt": 285,
@@ -4206,8 +4270,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0168731,
-    "lng": 105.7668535
+    "lat": 21.0241412,
+    "lng": 105.7666911,
+    "needs_regeocode": false
   },
   {
     "stt": 286,
@@ -4220,8 +4285,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0079029,
+    "lng": 105.7929453,
+    "needs_regeocode": false
   },
   {
     "stt": 287,
@@ -4234,8 +4300,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.022977,
+    "lng": 105.79806,
+    "needs_regeocode": false
   },
   {
     "stt": 288,
@@ -4248,8 +4315,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0226995,
+    "lng": 105.7912872,
+    "needs_regeocode": false
   },
   {
     "stt": 289,
@@ -4262,8 +4330,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.2142901,
-    "lng": 105.8013524
+    "lat": 21.21667,
+    "lng": 105.81667,
+    "needs_regeocode": false
   },
   {
     "stt": 290,
@@ -4276,8 +4345,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.2142901,
-    "lng": 105.8013524
+    "lat": 21.21667,
+    "lng": 105.81667,
+    "needs_regeocode": false
   },
   {
     "stt": 291,
@@ -4290,8 +4360,9 @@
     "nhom_sp": "Bếp ăn tập thể",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.1258664,
-    "lng": 105.760677
+    "lat": 21.1250073,
+    "lng": 105.7790048,
+    "needs_regeocode": false
   },
   {
     "stt": 292,
@@ -4304,8 +4375,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 20.9030774,
+    "lng": 105.6981089,
+    "needs_regeocode": false
   },
   {
     "stt": 293,
@@ -4318,8 +4390,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.020100992648,
+    "lng": 105.82514102842,
+    "needs_regeocode": false
   },
   {
     "stt": 294,
@@ -4332,8 +4405,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.0070505,
+    "lng": 105.822874,
+    "needs_regeocode": false
   },
   {
     "stt": 295,
@@ -4347,7 +4421,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
     "lat": 20.9710496,
-    "lng": 105.774941
+    "lng": 105.774941,
+    "needs_regeocode": false
   },
   {
     "stt": 296,
@@ -4361,7 +4436,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
     "lat": 21.0303029,
-    "lng": 105.8338434
+    "lng": 105.8338434,
+    "needs_regeocode": false
   },
   {
     "stt": 297,
@@ -4375,7 +4451,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
     "lat": 21.0104849,
-    "lng": 105.8162355
+    "lng": 105.8162355,
+    "needs_regeocode": false
   },
   {
     "stt": 298,
@@ -4388,8 +4465,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.9794509,
+    "lng": 105.7856786,
+    "needs_regeocode": false
   },
   {
     "stt": 299,
@@ -4402,8 +4480,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.031581601608,
+    "lng": 105.831427791077,
+    "needs_regeocode": false
   },
   {
     "stt": 300,
@@ -4417,7 +4496,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
     "lat": 21.0354343,
-    "lng": 105.8036636
+    "lng": 105.8036636,
+    "needs_regeocode": false
   },
   {
     "stt": 301,
@@ -4430,8 +4510,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 21.0008769,
+    "lng": 105.8038142,
+    "needs_regeocode": false
   },
   {
     "stt": 302,
@@ -4444,8 +4525,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0063974,
-    "lng": 105.816087
+    "lat": 21.018957,
+    "lng": 105.8026611,
+    "needs_regeocode": false
   },
   {
     "stt": 303,
@@ -4459,7 +4541,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
     "lat": 21.000317,
-    "lng": 105.8022646
+    "lng": 105.8022646,
+    "needs_regeocode": false
   },
   {
     "stt": 304,
@@ -4472,8 +4555,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "26/2/2026",
-    "lat": 21.0347091,
-    "lng": 105.8245193
+    "lat": 21.0438321,
+    "lng": 105.8382631,
+    "needs_regeocode": false
   },
   {
     "stt": 305,
@@ -4486,8 +4570,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 20.9619101,
-    "lng": 105.83654
+    "lat": 20.9638006,
+    "lng": 105.832151,
+    "needs_regeocode": false
   },
   {
     "stt": 306,
@@ -4500,8 +4585,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0287857,
+    "lng": 105.8219388,
+    "needs_regeocode": false
   },
   {
     "stt": 307,
@@ -4514,8 +4600,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0266823,
+    "lng": 105.8177878,
+    "needs_regeocode": false
   },
   {
     "stt": 308,
@@ -4528,8 +4615,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 20.9910725,
-    "lng": 105.8515452
+    "lat": 20.974744,
+    "lng": 105.8524172,
+    "needs_regeocode": false
   },
   {
     "stt": 309,
@@ -4542,8 +4630,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0223916,
+    "lng": 105.7873374,
+    "needs_regeocode": false
   },
   {
     "stt": 310,
@@ -4557,7 +4646,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
     "lat": 21.034913,
-    "lng": 105.81013
+    "lng": 105.81013,
+    "needs_regeocode": false
   },
   {
     "stt": 311,
@@ -4570,8 +4660,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0324136,
+    "lng": 105.8086909,
+    "needs_regeocode": false
   },
   {
     "stt": 312,
@@ -4584,8 +4675,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0185585,
+    "lng": 105.7947583,
+    "needs_regeocode": false
   },
   {
     "stt": 313,
@@ -4599,7 +4691,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
     "lat": 20.9233689,
-    "lng": 105.8426967
+    "lng": 105.8426967,
+    "needs_regeocode": false
   },
   {
     "stt": 314,
@@ -4612,8 +4705,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0186267,
+    "lng": 105.7870479,
+    "needs_regeocode": false
   },
   {
     "stt": 315,
@@ -4626,8 +4720,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0270206,
+    "lng": 105.8222252,
+    "needs_regeocode": false
   },
   {
     "stt": 316,
@@ -4640,8 +4735,9 @@
     "nhom_sp": "Bếp ăn tập thể",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0207254,
-    "lng": 105.9420755
+    "lat": 20.9283306,
+    "lng": 105.7566358,
+    "needs_regeocode": false
   },
   {
     "stt": 317,
@@ -4654,8 +4750,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 21.0063974,
-    "lng": 105.816087
+    "lat": 21.011972,
+    "lng": 105.8116527,
+    "needs_regeocode": false
   },
   {
     "stt": 318,
@@ -4668,8 +4765,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.981534,
+    "lng": 105.748875,
+    "needs_regeocode": false
   },
   {
     "stt": 319,
@@ -4683,7 +4781,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "27/2/2026",
     "lat": 20.9752472,
-    "lng": 105.7543587
+    "lng": 105.7543587,
+    "needs_regeocode": false
   },
   {
     "stt": 320,
@@ -4697,7 +4796,8 @@
     "ky_hieu_nhom": "Sản xuất thực phẩm",
     "ngay_cap": "27/2/2026",
     "lat": 21.0374283,
-    "lng": 105.805056
+    "lng": 105.805056,
+    "needs_regeocode": false
   },
   {
     "stt": 321,
@@ -4710,8 +4810,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0439219,
-    "lng": 105.7552704
+    "lat": 21.040608995147,
+    "lng": 105.765144036042,
+    "needs_regeocode": false
   },
   {
     "stt": 322,
@@ -4724,8 +4825,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.0454665,
+    "lng": 105.8029,
+    "needs_regeocode": false
   },
   {
     "stt": 323,
@@ -4738,8 +4840,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.0346826,
+    "lng": 105.7888817,
+    "needs_regeocode": false
   },
   {
     "stt": 324,
@@ -4752,8 +4855,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.0304629,
+    "lng": 105.7912306,
+    "needs_regeocode": false
   },
   {
     "stt": 325,
@@ -4766,8 +4870,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.03238,
+    "lng": 105.7974761,
+    "needs_regeocode": false
   },
   {
     "stt": 326,
@@ -4780,8 +4885,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.036952,
-    "lng": 105.7926426
+    "lat": 21.0371031,
+    "lng": 105.7919194,
+    "needs_regeocode": false
   },
   {
     "stt": 327,
@@ -4794,8 +4900,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0292159,
-    "lng": 105.8033629
+    "lat": 21.0364627,
+    "lng": 105.7892223,
+    "needs_regeocode": false
   },
   {
     "stt": 328,
@@ -4808,8 +4915,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0185679,
-    "lng": 105.7576128
+    "lat": 21.0355431,
+    "lng": 105.7614476,
+    "needs_regeocode": false
   },
   {
     "stt": 329,
@@ -4822,8 +4930,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.011398,
-    "lng": 105.7449529
+    "lat": 21.004935,
+    "lng": 105.748395,
+    "needs_regeocode": false
   },
   {
     "stt": 330,
@@ -4837,7 +4946,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
     "lat": 21.0415891,
-    "lng": 105.865217
+    "lng": 105.865217,
+    "needs_regeocode": false
   },
   {
     "stt": 331,
@@ -4850,8 +4960,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0271958,
-    "lng": 105.8565753
+    "lat": 21.026773197123,
+    "lng": 105.858536458508,
+    "needs_regeocode": false
   },
   {
     "stt": 332,
@@ -4864,8 +4975,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0440724,
-    "lng": 105.7006493
+    "lat": 21.077136,
+    "lng": 105.508426,
+    "needs_regeocode": false
   },
   {
     "stt": 333,
@@ -4878,8 +4990,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 20.9984531,
+    "lng": 105.8009381,
+    "needs_regeocode": false
   },
   {
     "stt": 334,
@@ -4892,8 +5005,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.0337743,
-    "lng": 105.8476005
+    "lat": 21.0336756,
+    "lng": 105.8464525,
+    "needs_regeocode": false
   },
   {
     "stt": 335,
@@ -4906,8 +5020,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 21.051718,
-    "lng": 105.8786414
+    "lat": 21.0166621,
+    "lng": 105.9369201,
+    "needs_regeocode": false
   },
   {
     "stt": 336,
@@ -4921,7 +5036,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
     "lat": 21.0130437,
-    "lng": 105.9363328
+    "lng": 105.9363328,
+    "needs_regeocode": false
   },
   {
     "stt": 337,
@@ -4934,8 +5050,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 20.9900306,
-    "lng": 105.7865666
+    "lat": 20.9909104,
+    "lng": 105.7910133,
+    "needs_regeocode": false
   },
   {
     "stt": 338,
@@ -4948,8 +5065,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.969348773201,
+    "lng": 105.7800660013,
+    "needs_regeocode": false
   },
   {
     "stt": 339,
@@ -4962,8 +5080,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 20.9969075,
-    "lng": 105.8403147
+    "lat": 21.083324,
+    "lng": 105.7731259,
+    "needs_regeocode": false
   },
   {
     "stt": 340,
@@ -4977,7 +5096,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
     "lat": 21.0337743,
-    "lng": 105.8476005
+    "lng": 105.8476005,
+    "needs_regeocode": false
   },
   {
     "stt": 341,
@@ -4990,8 +5110,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 20.9969075,
-    "lng": 105.8403147
+    "lat": 20.994024,
+    "lng": 105.8309953,
+    "needs_regeocode": false
   },
   {
     "stt": 342,
@@ -5004,8 +5125,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "2/3/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.9810567,
+    "lng": 105.78423,
+    "needs_regeocode": false
   },
   {
     "stt": 343,
@@ -5019,7 +5141,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.0238072,
-    "lng": 105.8151054
+    "lng": 105.8151054,
+    "needs_regeocode": false
   },
   {
     "stt": 344,
@@ -5032,8 +5155,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.0171181,
+    "lng": 105.823904,
+    "needs_regeocode": false
   },
   {
     "stt": 345,
@@ -5046,8 +5170,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 21.031581601608,
+    "lng": 105.831427791077,
+    "needs_regeocode": false
   },
   {
     "stt": 346,
@@ -5060,8 +5185,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 20.991057,
+    "lng": 105.845313,
+    "needs_regeocode": false
   },
   {
     "stt": 347,
@@ -5074,8 +5200,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.981534,
+    "lng": 105.748875,
+    "needs_regeocode": false
   },
   {
     "stt": 348,
@@ -5088,8 +5215,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.9706711,
+    "lng": 105.7754762,
+    "needs_regeocode": false
   },
   {
     "stt": 349,
@@ -5102,8 +5230,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0347091,
-    "lng": 105.8245193
+    "lat": 21.039968,
+    "lng": 105.8457009,
+    "needs_regeocode": false
   },
   {
     "stt": 350,
@@ -5117,7 +5246,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.107502,
-    "lng": 105.5460615
+    "lng": 105.5460615,
+    "needs_regeocode": false
   },
   {
     "stt": 351,
@@ -5131,7 +5261,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.107502,
-    "lng": 105.5460615
+    "lng": 105.5460615,
+    "needs_regeocode": false
   },
   {
     "stt": 352,
@@ -5145,7 +5276,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.0092132,
-    "lng": 105.8489241
+    "lng": 105.8489241,
+    "needs_regeocode": false
   },
   {
     "stt": 353,
@@ -5158,8 +5290,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.005453,
-    "lng": 105.8606225
+    "lat": 21.0097233,
+    "lng": 105.8508899,
+    "needs_regeocode": false
   },
   {
     "stt": 354,
@@ -5173,7 +5306,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.0415888,
-    "lng": 105.7939017
+    "lng": 105.7939017,
+    "needs_regeocode": false
   },
   {
     "stt": 355,
@@ -5187,7 +5321,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.042602,
-    "lng": 105.786219
+    "lng": 105.786219,
+    "needs_regeocode": false
   },
   {
     "stt": 356,
@@ -5200,8 +5335,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0223916,
+    "lng": 105.7873374,
+    "needs_regeocode": false
   },
   {
     "stt": 357,
@@ -5214,8 +5350,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0253891,
-    "lng": 105.8412249
+    "lat": 21.026208,
+    "lng": 105.843575,
+    "needs_regeocode": false
   },
   {
     "stt": 358,
@@ -5229,7 +5366,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 21.0190598,
-    "lng": 105.8553515
+    "lng": 105.8553515,
+    "needs_regeocode": false
   },
   {
     "stt": 359,
@@ -5242,8 +5380,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.0253891,
-    "lng": 105.8412249
+    "lat": 21.0192617,
+    "lng": 105.8506813,
+    "needs_regeocode": false
   },
   {
     "stt": 360,
@@ -5257,7 +5396,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
     "lat": 20.9719968,
-    "lng": 105.833256
+    "lng": 105.833256,
+    "needs_regeocode": false
   },
   {
     "stt": 361,
@@ -5270,8 +5410,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "4/3/2026",
-    "lat": 21.005453,
-    "lng": 105.8606225
+    "lat": 21.0134248,
+    "lng": 105.8470103,
+    "needs_regeocode": false
   },
   {
     "stt": 362,
@@ -5284,8 +5425,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
-    "lat": 21.0357879,
-    "lng": 105.8276413
+    "lat": 21.0438131,
+    "lng": 105.8989199,
+    "needs_regeocode": false
   },
   {
     "stt": 363,
@@ -5299,7 +5441,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
     "lat": 21.034913,
-    "lng": 105.81013
+    "lng": 105.81013,
+    "needs_regeocode": false
   },
   {
     "stt": 364,
@@ -5312,8 +5455,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
-    "lat": 20.9619101,
-    "lng": 105.83654
+    "lat": 20.9648348,
+    "lng": 105.8263524,
+    "needs_regeocode": false
   },
   {
     "stt": 365,
@@ -5326,8 +5470,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
-    "lat": 20.9619101,
-    "lng": 105.83654
+    "lat": 20.9613916,
+    "lng": 105.8239634,
+    "needs_regeocode": false
   },
   {
     "stt": 366,
@@ -5340,8 +5485,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
-    "lat": 20.9619101,
-    "lng": 105.83654
+    "lat": 20.970608997611,
+    "lng": 105.839323040954,
+    "needs_regeocode": false
   },
   {
     "stt": 367,
@@ -5355,7 +5501,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
     "lat": 21.0415888,
-    "lng": 105.7939017
+    "lng": 105.7939017,
+    "needs_regeocode": false
   },
   {
     "stt": 368,
@@ -5369,7 +5516,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
     "lat": 21.0331758,
-    "lng": 105.8551416
+    "lng": 105.8551416,
+    "needs_regeocode": false
   },
   {
     "stt": 369,
@@ -5382,8 +5530,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
-    "lat": 21.0271958,
-    "lng": 105.8565753
+    "lat": 21.0322483,
+    "lng": 105.8524244,
+    "needs_regeocode": false
   },
   {
     "stt": 370,
@@ -5397,7 +5546,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
     "lat": 21.0382046,
-    "lng": 105.8476042
+    "lng": 105.8476042,
+    "needs_regeocode": false
   },
   {
     "stt": 371,
@@ -5410,8 +5560,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
-    "lat": 21.0253891,
-    "lng": 105.8412249
+    "lat": 21.0208713,
+    "lng": 105.8577338,
+    "needs_regeocode": false
   },
   {
     "stt": 372,
@@ -5425,7 +5576,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "5/3/2026",
     "lat": 21.0352138,
-    "lng": 105.7924703
+    "lng": 105.7924703,
+    "needs_regeocode": false
   },
   {
     "stt": 373,
@@ -5439,7 +5591,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
     "lat": 21.0351525,
-    "lng": 105.8544758
+    "lng": 105.8544758,
+    "needs_regeocode": false
   },
   {
     "stt": 374,
@@ -5453,7 +5606,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống và sản xuất thực phẩm",
     "ngay_cap": "6/3/2026",
     "lat": 21.0503815,
-    "lng": 105.8397611
+    "lng": 105.8397611,
+    "needs_regeocode": false
   },
   {
     "stt": 375,
@@ -5466,8 +5620,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.9723087,
+    "lng": 105.785673,
+    "needs_regeocode": false
   },
   {
     "stt": 376,
@@ -5480,8 +5635,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.9739713,
+    "lng": 105.7873585,
+    "needs_regeocode": false
   },
   {
     "stt": 377,
@@ -5494,8 +5650,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 20.9702189,
-    "lng": 105.7749565
+    "lat": 20.9739713,
+    "lng": 105.7873585,
+    "needs_regeocode": false
   },
   {
     "stt": 378,
@@ -5508,8 +5665,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 20.9509503,
-    "lng": 105.7853025
+    "lat": 20.9604548,
+    "lng": 105.7679613,
+    "needs_regeocode": false
   },
   {
     "stt": 379,
@@ -5522,8 +5680,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0086146,
+    "lng": 105.7982745,
+    "needs_regeocode": false
   },
   {
     "stt": 380,
@@ -5536,8 +5695,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0223916,
+    "lng": 105.7873374,
+    "needs_regeocode": false
   },
   {
     "stt": 381,
@@ -5550,8 +5710,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0086146,
+    "lng": 105.7982745,
+    "needs_regeocode": false
   },
   {
     "stt": 382,
@@ -5564,8 +5725,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 21.0495411,
-    "lng": 105.8849836
+    "lat": 21.0522473,
+    "lng": 105.8882577,
+    "needs_regeocode": false
   },
   {
     "stt": 383,
@@ -5578,8 +5740,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
-    "lat": 21.0399392,
-    "lng": 105.8499991
+    "lat": 21.0271231,
+    "lng": 105.8999586,
+    "needs_regeocode": false
   },
   {
     "stt": 384,
@@ -5593,7 +5756,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "6/3/2026",
     "lat": 21.0072336,
-    "lng": 105.9393278
+    "lng": 105.9393278,
+    "needs_regeocode": false
   },
   {
     "stt": 385,
@@ -5606,8 +5770,9 @@
     "nhom_sp": "Quầy hàng kinh doanh TPC, TAN",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 21.0031239,
+    "lng": 105.816661,
+    "needs_regeocode": false
   },
   {
     "stt": 386,
@@ -5620,8 +5785,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0347091,
-    "lng": 105.8245193
+    "lat": 21.0418509,
+    "lng": 105.8331034,
+    "needs_regeocode": false
   },
   {
     "stt": 387,
@@ -5634,8 +5800,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 21.001294600312,
+    "lng": 105.81727888706,
+    "needs_regeocode": false
   },
   {
     "stt": 388,
@@ -5649,7 +5816,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống và sản xuất thực phẩm",
     "ngay_cap": "9/3/2026",
     "lat": 21.0618872,
-    "lng": 105.8306459
+    "lng": 105.8306459,
+    "needs_regeocode": false
   },
   {
     "stt": 389,
@@ -5663,7 +5831,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
     "lat": 21.0306892,
-    "lng": 105.8186521
+    "lng": 105.8186521,
+    "needs_regeocode": false
   },
   {
     "stt": 390,
@@ -5676,8 +5845,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.026461,
+    "lng": 105.817788,
+    "needs_regeocode": false
   },
   {
     "stt": 391,
@@ -5690,8 +5860,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0344119,
+    "lng": 105.8088576,
+    "needs_regeocode": false
   },
   {
     "stt": 392,
@@ -5704,8 +5875,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0257605,
-    "lng": 105.8130654
+    "lat": 21.0324136,
+    "lng": 105.8086909,
+    "needs_regeocode": false
   },
   {
     "stt": 393,
@@ -5718,8 +5890,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.060941,
-    "lng": 105.8240684
+    "lat": 21.0437281,
+    "lng": 105.8177053,
+    "needs_regeocode": false
   },
   {
     "stt": 394,
@@ -5732,8 +5905,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.1439351,
-    "lng": 105.5814334
+    "lat": 21.067075105881,
+    "lng": 105.80386951836,
+    "needs_regeocode": false
   },
   {
     "stt": 395,
@@ -5746,8 +5920,9 @@
     "nhom_sp": "Cửa hàng ăn uống và sản xuất các loại bánh từ bột",
     "ky_hieu_nhom": "Dịch vụ ăn uống và sản xuất thực phẩm",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.004206385247,
+    "lng": 105.798705711711,
+    "needs_regeocode": false
   },
   {
     "stt": 396,
@@ -5760,8 +5935,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.1439351,
-    "lng": 105.5814334
+    "lat": 21.066367,
+    "lng": 105.793325,
+    "needs_regeocode": false
   },
   {
     "stt": 397,
@@ -5775,7 +5951,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
     "lat": 21.0075017,
-    "lng": 105.8054174
+    "lng": 105.8054174,
+    "needs_regeocode": false
   },
   {
     "stt": 398,
@@ -5788,8 +5965,9 @@
     "nhom_sp": "Bếp ăn tập thể",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.1439351,
-    "lng": 105.5814334
+    "lat": 21.0565307,
+    "lng": 105.7971251,
+    "needs_regeocode": false
   },
   {
     "stt": 399,
@@ -5802,8 +5980,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.2142901,
-    "lng": 105.8013524
+    "lat": 21.21667,
+    "lng": 105.81667,
+    "needs_regeocode": false
   },
   {
     "stt": 400,
@@ -5817,7 +5996,8 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
     "lat": 21.001938,
-    "lng": 105.8064006
+    "lng": 105.8064006,
+    "needs_regeocode": false
   },
   {
     "stt": 401,
@@ -5830,8 +6010,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 20.999066103715,
+    "lng": 105.806710061527,
+    "needs_regeocode": false
   },
   {
     "stt": 402,
@@ -5844,8 +6025,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.228726,
-    "lng": 105.758356
+    "lat": 21.001833389048,
+    "lng": 105.804504698983,
+    "needs_regeocode": false
   },
   {
     "stt": 403,
@@ -5858,8 +6040,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0185679,
-    "lng": 105.7576128
+    "lat": 21.0148016,
+    "lng": 105.7821799,
+    "needs_regeocode": false
   },
   {
     "stt": 404,
@@ -5872,8 +6055,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0185679,
-    "lng": 105.7576128
+    "lat": 21.0168134,
+    "lng": 105.7772978,
+    "needs_regeocode": false
   },
   {
     "stt": 405,
@@ -5886,8 +6070,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0185679,
-    "lng": 105.7576128
+    "lat": 21.0343268,
+    "lng": 105.7689424,
+    "needs_regeocode": false
   },
   {
     "stt": 406,
@@ -5900,8 +6085,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0439219,
-    "lng": 105.7552704
+    "lat": 21.0552917,
+    "lng": 105.7795998,
+    "needs_regeocode": false
   },
   {
     "stt": 407,
@@ -5914,8 +6100,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "9/3/2026",
-    "lat": 21.0063974,
-    "lng": 105.816087
+    "lat": 21.0163552,
+    "lng": 105.810385,
+    "needs_regeocode": false
   },
   {
     "stt": 408,
@@ -5928,8 +6115,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 21.0192017,
-    "lng": 105.8181354
+    "lat": 21.0193655,
+    "lng": 105.8174396,
+    "needs_regeocode": false
   },
   {
     "stt": 409,
@@ -5942,8 +6130,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 20.991057,
+    "lng": 105.845313,
+    "needs_regeocode": false
   },
   {
     "stt": 410,
@@ -5956,8 +6145,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 21.0229499,
-    "lng": 105.8261347
+    "lat": 20.991057,
+    "lng": 105.845313,
+    "needs_regeocode": false
   },
   {
     "stt": 411,
@@ -5970,8 +6160,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 21.0485587,
+    "lng": 105.8076762,
+    "needs_regeocode": false
   },
   {
     "stt": 412,
@@ -5984,8 +6175,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 20.7845114,
-    "lng": 105.8644379
+    "lat": 20.9766636,
+    "lng": 105.7538363,
+    "needs_regeocode": false
   },
   {
     "stt": 413,
@@ -5998,8 +6190,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0256307,
+    "lng": 105.7973928,
+    "needs_regeocode": false
   },
   {
     "stt": 414,
@@ -6012,8 +6205,9 @@
     "nhom_sp": "Cửa hàng ăn uống",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0045152,
+    "lng": 105.8012372,
+    "needs_regeocode": false
   },
   {
     "stt": 415,
@@ -6026,8 +6220,9 @@
     "nhom_sp": "Nhà hàng",
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
-    "lat": 21.0300087,
-    "lng": 105.7980215
+    "lat": 21.0158453,
+    "lng": 105.7874736,
+    "needs_regeocode": false
   },
   {
     "stt": 416,
@@ -6041,6 +6236,7 @@
     "ky_hieu_nhom": "Dịch vụ ăn uống",
     "ngay_cap": "11/3/2026",
     "lat": 21.0147202,
-    "lng": 105.8505466
+    "lng": 105.8505466,
+    "needs_regeocode": false
   }
 ]
